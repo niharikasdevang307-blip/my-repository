@@ -246,4 +246,5 @@ function confirmOrder() {
   toggleCart();
 
 }
+
 renderOrders(); // update orders list
