@@ -20,3 +20,4 @@ form.addEventListener("submit", function(e) {
     alert("⚠️ Please fill in all fields before sending!");
   }
 });
+
