@@ -345,3 +345,10 @@ footer {
     gap: 15px;
   }
 }
+
+.menu {
+    position: absolute;
+    top: 50px;     /* adjust as needed */
+    right: 0;      /* align to right edge of screen */
+    width: 100%;   /* full width on mobile */
+}
